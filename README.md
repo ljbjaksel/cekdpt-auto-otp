@@ -36,13 +36,15 @@ Masuk ke service Railway kamu → tab **Variables**:
 
 ---
 
-## **3) Set Volume (penting)**
+## **3) Set Volume**
 
 Agar sesi WhatsApp tidak hilang saat redeploy:
 
 1. Buka service → **Volumes**
 2. Add Volume
 3. Mount Path: `/data`
+
+> Di beberapa akun pengaturan ini tidak tersedia, solusi cukup pair ulang nomor Whatsapp.
 
 ---
 
