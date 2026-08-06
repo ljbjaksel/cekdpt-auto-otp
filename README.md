@@ -44,8 +44,7 @@ Agar sesi WhatsApp tidak hilang saat redeploy:
 2. Add Volume
 3. Mount Path: `/data`
 
-> Di beberapa akun pengaturan ini tidak tersedia, solusi cukup pair ulang nomor Whatsapp.
-
+![Setup Volume](docs/setup-volume.gif)
 ---
 
 ## **4) Set Network Domain**
