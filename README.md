@@ -115,9 +115,7 @@ UI akan polling endpoint:
 <li>Cek log server, harus ada [OTP] ✅ ...</li>
 
 ## **8) Screenshot**
-![Setup Railway](docs/img/setup-railway.png)
-
-![Pairing WhatsApp](docs/img/pairing.gif)
+![Setup Railway](docs/setup-railway.gif)
 
 ## **9) Endpoint Ringkas**
 ```GET /ping → status koneksi WA + pairing code```
