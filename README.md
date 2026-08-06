@@ -18,7 +18,7 @@ Untuk mode Advanced di UI CekDPT.
 1. Login ke Railway
 2. Klik **New Project**
 3. Pilih **Deploy from GitHub repo**
-4. Pilih repo `cekdpt-auto`
+4. Pilih repo `cekdpt-auto-otp`
 5. Tunggu build + start selesai
 
 ---
